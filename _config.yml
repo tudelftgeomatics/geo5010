@@ -1,0 +1,22 @@
+#-- Dependencies
+markdown:         kramdown
+kramdown:
+  input:          GFM
+  hard_wrap:      false
+  toc_levels:     2..5
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  # use_coderay:    false
+highlighter:      rouge
+excerpt_separator: "<!--more-->"
+
+#-- Permalinks
+permalink:        pretty
+
+future:           true
+
+#-- Setup
+title:            TU Delft MSc Geomatics Research Assignment (GEO5010)
+url:              "http://tudelftgeomatics.github.io"
+baseurl:          "/geo5010/"
+
+
