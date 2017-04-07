@@ -15,7 +15,7 @@ permalink:        pretty
 future:           true
 
 #-- Setup
-title:            TU Delft MSc Geomatics Research Assignment (GEO5010)
+title:            "TU Delft MSc Geomatics"
 url:              "http://tudelftgeomatics.github.io"
 baseurl:          "/geo5010/"
 
