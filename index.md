@@ -34,6 +34,7 @@ The coordinator should receive a copy of the proposed assignment before the actu
 To start the project, a half-page summary containing the following is required:
 
   - name student
+  - name of the supervisor
   - title of project
   - main objectives and deliverables
   - planned timeframe
