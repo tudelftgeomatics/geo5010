@@ -31,13 +31,6 @@ There are no lectures scheduled for this course. Instead, an individual assignme
 
 The coordinator should receive a copy of the proposed assignment before the actual start of the work, and of the final deliverable at the end of the assignment.
 
-To start the project, a half-page summary containing the following is required:
-
-  - name student
-  - name of the supervisor
-  - title of project
-  - main objectives and deliverables
-  - planned timeframe
 
 ## Assessment
 
@@ -46,3 +39,16 @@ The marking of an assessment is made by the supervisor of the project and the co
 There is in theory no time limit for an assignment, that is a student can start for instance during the summer and work part-time on the project for a few months.
 
 An assignment can be handed-in at any time during the year.
+
+
+## How to start a project?
+
+  1. Find a staff of the MSc Geomatics;
+  1. Agree on a topic;
+  1. Send me (`h.ledoux@tudelft.nl`) a half-page summary containing the following:
+
+     - name student
+     - name of the supervisor
+     - title of project
+     - main objectives and deliverables
+     - planned start and end
