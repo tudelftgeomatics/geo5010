@@ -31,7 +31,7 @@ There are no lectures scheduled for this course. Instead, an individual assignme
 
 The coordinator should receive a copy of the proposed assignment before the actual start of the work, and of the final deliverable at the end of the assignment.
 
-# Workload
+## Workload
 
 The project is 2 ECTS, thus 56h of work is required. 
 
