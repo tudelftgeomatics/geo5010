@@ -16,7 +16,7 @@ future:           true
 
 #-- Setup
 title:            "TU Delft MSc Geomatics"
-url:              "http://tudelftgeomatics.github.io"
-baseurl:          "/geo5010/"
+url:              "https://3d.bk.tudelft.nl"
+baseurl:          "/courses/geo5010/"
 
 
